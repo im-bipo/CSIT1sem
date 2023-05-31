@@ -1,0 +1,14 @@
+NIC
+Network Interface Card:
+NIC provides the hardware interface between a computer and a network, 
+regardless of whether the network is wired or wireless since the NIC
+can be used for Ethernet networks as well as Wi-Fi ones.
+
+"Network cards" that connect over USB are not actually cards but 
+instead regular USB devices that enable network connections through 
+the USB port. These are called network adapters.
+
+Network interface card NIC is a hardware component, where network controllers 
+are integrated on to a circuit board that uses standard OSI model of 7 layers 
+to communicate and it acts like a trans-receiver, where it can transmit and 
+receives at the same time while communicating with other devices.
